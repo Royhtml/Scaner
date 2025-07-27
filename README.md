@@ -1,5 +1,7 @@
 # Scanner - Dokumentasi Lengkap
 
+<img src = "Screenshot 2025-07-27 095502.png">
+
 ## Installation
 
 1. pip install webscan2
